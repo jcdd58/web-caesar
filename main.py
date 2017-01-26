@@ -20,7 +20,7 @@ page_header = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Caesar</title>
+    <title>Web Caesar</title>
     <style type="text/css">
         .error {
             color: red;
@@ -29,7 +29,7 @@ page_header = """
 </head>
 <body>
     <h1>
-        <a href="/">Caesar</a>
+        <a href="/">Web Caesar</a>
     </h1>
 """
 
